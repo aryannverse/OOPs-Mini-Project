@@ -14,6 +14,8 @@ USED LIBRARIES:
 <img width="1429" alt="Screenshot 2024-11-27 at 2 40 35 AM" src="https://github.com/user-attachments/assets/58afd145-9302-46a8-97b6-a5415a4b3e99">
 
 
-> I have used mediapipe's hand detection features for placing and sizing magic circles correctly. 
+> I have used mediapipe's hand detection features for placing and sizing magic circles correctly.
+
 > For iamges i created a function for replacing blacks pixels with background image.
+
 > If you want to add new magic circle styles all you have to do is create a png.img with black background. After that you are good to go. (you can examine images I used)
